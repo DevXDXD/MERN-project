@@ -10,11 +10,11 @@ Currently, two official plugins are available:
 
 
 Run the commands below:
-Run below Commands in cmd :
- npm i framer-motion
- npm i gasp
- npm install locomotive-scroll@beta
- npm install react-router-dom
- npm create vite@latest
- npm install -D tailwindcss postcss autoprefixer
- npm run dev
+
+ - npm i framer-motion
+ - npm i gasp
+ - npm install locomotive-scroll@beta
+ - npm install react-router-dom
+ - npm create vite@latest
+ - npm install -D tailwindcss postcss autoprefixer
+ - npm run dev
