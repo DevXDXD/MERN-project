@@ -1,5 +1,5 @@
 Commands to run:
- npm i framer-motion
+ npm i framer-motion/n
  npm i gasp
  npm install locomotive-scroll@beta
  npm install react-router-dom
